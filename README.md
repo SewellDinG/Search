@@ -60,4 +60,8 @@ CVE-2017-11882 POC
 
 `www.t00ls.net` 和 `forum.90sec.org` 属一类：需要**登陆**，利用 **post+formhash+关键词** 来搜索；
 
-note：t00ls 和 90sec 均属于discuz，不过登陆都不需要验证码，而且 t00ls 登陆不需要 **loginhash**；
+note：
+
+t00ls 和 90sec 均属于discuz，不过登陆都不需要验证码，而且 t00ls 登陆不需要 **loginhash**；
+
+t00s 注册会员以上级别免费，新手上路每进行一次搜索将扣除 TuBi 1；
